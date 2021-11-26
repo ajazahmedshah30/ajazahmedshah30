@@ -1,4 +1,4 @@
-A program to create and traverse a Linked List using C
+//A program to create and traverse a Linked List using C
 #include <stdio.h>
 #include <stdlib.h>
 
