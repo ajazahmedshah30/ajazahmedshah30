@@ -1,0 +1,24 @@
+#include<stdio.h>
+ 
+ 
+void display(int a[], int n){
+
+    for (int i = 0; i < n; i++)
+    {
+        printf("%d ", a[i]);
+    }
+    printf("\n");   
+}
+ 
+int Insertion(int a[], int size, int element, int capacity, int pos){
+    
+    if(size>=capacity){
+        return -1;
+    }
+    for (int i = size-1; i >=pos; i--)
+    {
+        a[i+1] = a[i];
+    }
+    a[pos] = element;
+    return 1; 
+}
