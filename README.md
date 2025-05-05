@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajazahmedshah30
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently pursuing B.Tech in CS
+- 🌱 I’m currently pursuing M.Tech in CS
 - 💞️ I’m looking to collaborate in AI and ML.
 
 
